@@ -1,0 +1,11 @@
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe.config
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.pdb
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.AssemblyReference.cache
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.MainForm.resources
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.Properties.Resources.resources
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.GenerateResource.cache
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.CoreCompileInputs.cache
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.exe
+C:\Users\lavac\OneDrive\Desktop\School\Year 2\Term 3\SODV2101 App Development\Learning Activitys\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.pdb
